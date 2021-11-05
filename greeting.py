@@ -6,3 +6,4 @@ print("hello friend")
 
 # ask the user what he/she wants to drink
 
+
